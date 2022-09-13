@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shashank Katiyar</h1>
 <!-- <h3 align="center">A Computational Biology Enthusiast</h3> -->
 
@@ -43,7 +42,6 @@
 - 👯 I’m looking to collaborate on any project related to Computational Biology
 - 💬 Ask me about whatever you think I can help you with
 - 📫 How to reach me: shashanksk31@gmail.com or shashkat@iitk.ac.in (I dont know how long the latter will last)
-- ⚡ Fun fact: The hand is slowly killing the king
 
 **shashkat/shashkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
