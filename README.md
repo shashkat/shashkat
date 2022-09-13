@@ -3,13 +3,13 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://www.devangthakkar.com/main_files/dna_gif_round_light.gif">
-
+<!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashkat&label=Profile%20views&color=0e75b6&style=flat" alt="shashkat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashkat" alt="shashkat" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shash_kat" target="blank"><img src="https://img.shields.io/twitter/follow/shash_kat?logo=twitter&style=for-the-badge" alt="shash_kat" /></a> </p>
-
+ -->
 - 🔭 I’m currently working on **Cancer genome data analysis**
 
 - 🌱 I’m currently learning **how to play pool and the guitar**
