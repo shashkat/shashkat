@@ -29,7 +29,7 @@ I am currently working on multiple projects involving Cancer Data Analysis. Hope
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en&theme=midnight-purple" alt="shashkat" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=midnight-purple" alt="shashkat" /></p> -->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en&theme=midnight-purple" alt="shashkat" width="430" height="160" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=midnight-purple" alt="shashkat" width="430" height="160" /></p>
+<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en&theme=midnight-purple" alt="shashkat" width="430" height="160" /> <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=midnight-purple" alt="shashkat" width="430" height="160" /></p>
               
 <h3 align="center">Connect with me:</h3>
 <p align="center">
