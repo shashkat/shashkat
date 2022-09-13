@@ -28,7 +28,7 @@ I am currently working on multiple projects involving Cancer Data Analysis. Hope
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en&theme=aura" alt="shashkat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=aura" alt="shashkat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=midnight-purple" alt="shashkat" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
