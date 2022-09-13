@@ -10,8 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/shash_kat" target="blank"><img src="https://img.shields.io/twitter/follow/shash_kat?logo=twitter&style=for-the-badge" alt="shash_kat" /></a> </p>
  -->
- 
+<p align="center">
 I am currently working on multiple projects involving Cancer Data Analysis. Hopefully, I will be able to make a dent on the catastrophic impact of this deadly disease one day. Do ping me for any discussions related to Bioinformatics, Cancer Genome analysis, or any related field. I am also passionate about Sports and Books, and am a relatively newbie guitarist.
+</p>
 <!-- - 🔭 I’m currently working on **Cancer genome data analysis**
 
 - 🌱 I’m currently learning **how to play pool and the guitar**
@@ -29,8 +30,8 @@ I am currently working on multiple projects involving Cancer Data Analysis. Hope
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&" alt="shashkat" /></p>
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/shash_kat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shash_kat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shashkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashkat" height="30" width="40" /></a>
 <a href="https://instagram.com/_shashank31_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shashank31_" height="30" width="40" /></a>
