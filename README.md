@@ -31,7 +31,7 @@ I am currently working on multiple projects involving Cancer Data Analysis. Hope
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=midnight-purple" alt="shashkat" /></p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en&theme=midnight-purple" alt="shashkat" width="415" height="155" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&theme=midnight-purple" alt="shashkat" width="415" height="155" /></p>
               
-<h6 align="center">Connect with me:</h6>
+<h4 align="center">Connect with me:</h4>
 <p align="center">
 <a href="https://twitter.com/shash_kat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shash_kat" height="20" width="26" /></a>
 <a href="https://linkedin.com/in/shashkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashkat" height="20" width="26" /></a>
