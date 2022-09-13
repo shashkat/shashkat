@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A Computational Biology Enthusiast</h3> -->
 
 
-<img align="right" alt="Coding" width="300" src="https://thumbs.gfycat.com/SharpObeseBandicoot-max-1mb.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/1KK58z5EL-MAAAAC/dna-lamp-lamp.gif">
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashkat&label=Profile%20views&color=0e75b6&style=flat" alt="shashkat" /> </p>
 
