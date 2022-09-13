@@ -26,7 +26,7 @@ I am currently working on multiple projects involving Cancer Data Analysis. Hope
 -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashkat&show_icons=true&locale=en&layout=compact" alt="shashkat" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en" alt="shashkat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashkat&show_icons=true&locale=en&theme=aura" alt="shashkat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashkat&" alt="shashkat" /></p>
 
