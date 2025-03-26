@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/shash_kat" target="blank"><img src="https://img.shields.io/twitter/follow/shash_kat?logo=twitter&style=for-the-badge" alt="shash_kat" /></a> </p>
  -->
 <p align="justify">
-I am a Masters student in the Computational Biology Department of Carnegie Mellon University. I completed my undergrad in 2023 at Indian Institute of Technology Kanpur in the Department of Biological Sciences and Bioengineering. I am currently working on multiple projects in the interface of biology and Computational Techniques. Do ping me for any discussions related to Bioinformatics, Cancer Genome analysis, or any related field. I am also passionate about Sports and Books, and am a relatively newbie flutist as of now.
+I am a Computational Biologist at Dana Farber Cancer Institute, researching pediatric cancers using spatial transcriptomics and machine learning. Previous to this, I completed my Master's in Computational Biology at Carnegie Mellon University in December 2024 and my undergrad in 2023 at Indian Institute of Technology Kanpur. I am excited by the possibilities of applying computational techniques to biological data and am always up for a discussion on the same. Do ping me for any discussions related to Bioinformatics, Cancer Genome analysis, or any related field. I am also passionate about Sports and Books, and am a relatively newbie flutist as of now.
 </p>
 <!-- - 🔭 I’m currently working on **Cancer genome data analysis**
 
